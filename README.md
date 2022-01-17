@@ -1,5 +1,5 @@
 ### Hello, I'm Marcos Aguayo
-I'm a professional full-stack engineer. I develop web applications and have a strong background in Python, Django, Go, Node.js, Vue, API development, and cryptocurrencies.
+I'm a professional full-stack engineer. I develop web applications and have a strong background in Python, Django, Go, Node.js, Vue, React, API development, and cryptocurrencies.
 
 ### Contact with me:
 
