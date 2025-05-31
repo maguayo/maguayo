@@ -1,7 +1,7 @@
 ### Hello, I'm Marcos Aguayo
 [![trophy](https://github-profile-trophy.vercel.app/?username=maguayo&rank=-C,-B)](https://github.com/maguayo)
 
-I am a full-stack engineer with expertise in Python, JavaScript, Go and frameworks like Django, FastAPI, Express, and Gin-Gonic. I have experience building scalable backend systems, developing APIs, and working with front-end technologies like Vue.js, React, Next.js, and VanillaJS. I have experience in blockchain and smart contract development with Solidity (ERC20 and ERC721)
+I’m a Product Engineer experienced in  software. In the past 15 years, I’ve led projects and worked within teams, I’ve built and launched multiple SaaS platforms using Python, Go and JavaScript (Django, FastAPI, Express, Vue.js, React, Next.js, VanillaJS), and I’ve architected scalable backends and APIs. At Insectius, I combined software and industrial engineering: I invented and patented three machines, programmed Kuka robotic arms, and managed and designed production workflows.
 
 ### Contact with me:
 
