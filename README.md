@@ -1,5 +1,4 @@
 ### Hello, I'm Marcos Aguayo
-[![trophy](https://github-profile-trophy.vercel.app/?username=maguayo&rank=-C,-B)](https://github.com/maguayo)
 
 I’m a Product Engineer experienced in  software. In the past 15 years, I’ve led projects and worked within teams, I’ve built and launched multiple SaaS platforms using Python, Go and JavaScript (Django, FastAPI, Express, Vue.js, React, Next.js, VanillaJS), and I’ve architected scalable backends and APIs. At Insectius, I combined software and industrial engineering: I invented and patented three machines, programmed Kuka robotic arms, and managed and designed production workflows.
 
